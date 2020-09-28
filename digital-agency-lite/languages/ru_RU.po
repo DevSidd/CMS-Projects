@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital Agency Lite\n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr "не обнаружена"
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Похоже, вы сделали неправильный поворот и ад"
+
+#: 404.php:14 no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйся, и это случится с лучшими из нас."
+
+#: 404.php:16 no-results.php:19
+msgid "Go Back"
+msgstr "Возвращаться"
+
+#: archive.php:45 archive.php:77 archive.php:108 archive.php:139
+#: archive.php:172 archive.php:207 archive.php:239 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:40 search.php:72 search.php:103
+#: search.php:134 search.php:167 search.php:202 search.php:234 single.php:38
+#: single.php:71 single.php:103 single.php:135 single.php:169 single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: archive.php:46 archive.php:78 archive.php:109 archive.php:140
+#: archive.php:173 archive.php:208 archive.php:240 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:41 search.php:73 search.php:104
+#: search.php:135 search.php:168 search.php:203 search.php:235 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "Следущая страница"
+
+#: archive.php:47 archive.php:79 archive.php:110 archive.php:141
+#: archive.php:174 archive.php:209 archive.php:241 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:42 search.php:74 search.php:105
+#: search.php:136 search.php:169 search.php:204 search.php:236 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "страница"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Одна мысль о & ldquo;% s & rdquo;"
+
+#: comments.php:40
+msgid "comments title"
+msgstr "заголовок комментария"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "комментарии закрыты"
+
+#: footer.php:64
+msgid "Digital Agency WordPress Theme By VWThemes"
+msgstr "Цифровое агентство WordPress Theme от VWThemes"
+
+#: functions.php:28
+msgid "Primary Menu"
+msgstr "основное меню"
+
+#: functions.php:62
+msgid "Warm Greetings to you!!"
+msgstr "Теплый привет тебе !!"
+
+#: functions.php:63
+msgid ""
+"Thank you for choosing Digital Agency Lite Theme. Would like to have you on our Welcome page so that you can reap all the benefits of our Digital Agency Lite Theme."
+msgstr ""
+"Спасибо, что выбрали Digital Agency Lite Theme. Хотели бы, чтобы вы были на нашей странице приветствия, чтобы вы могли воспользоваться всеми преимуществами нашей темы Digital Agency Lite."
+
+#: functions.php:64
+msgid "GET STARTED"
+msgstr "НАЧАТЬ"
+
+#: functions.php:71
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:72
+msgid "Appears on blog page sidebar"
+msgstr "Появляется на боковой панели страницы блога"
+
+#: functions.php:81
+msgid "page sidebar"
+msgstr "боковая панель страницы"
+
+#: functions.php:91
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:82 functions.php:92
+msgid "Appears on page sidebar"
+msgstr "Появляется на странице боковой панели"
+
+#: functions.php:101
+msgid "Footer Navigation 1"
+msgstr "Нижний колонтитул 1"
+
+#: functions.php:102
+msgid "Appears on footer 1"
+msgstr "Появляется в нижнем колонтитуле 1"
+
+#: functions.php:111
+msgid "Footer Navigation 2"
+msgstr "Нижний колонтитул 2"
+
+#: functions.php:112
+msgid "Appears on footer 2"
+msgstr "Появляется в нижнем колонтитуле 2"
+
+#: functions.php:121
+msgid "Footer Navigation 3"
+msgstr "Нижний колонтитул 3"
+
+#: functions.php:122
+msgid "Appears on footer 3"
+msgstr "Появляется в нижнем колонтитуле 3"
+
+#: functions.php:131
+msgid "Footer Navigation 4"
+msgstr "Нижний колонтитул 4"
+
+#: functions.php:132
+msgid "Appears on footer 4"
+msgstr "Появляется в нижнем колонтитуле 4"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "Готовы опубликовать свой первый пост? Начните здесь"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Извините, но ничего не соответствует вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Результаты для:% s"
+
+#: searchform.php:12 searchform.php:14
+#: template-parts/header/middle-header.php:38
+#: template-parts/header/middle-header.php:30
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "заполнитель"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "кнопка отправки"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "архив"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Мета"
+
+msgid "Logo Size"
+msgstr "Размер логотипа"
+
+msgid "Social Icon"
+msgstr "Социальная Иконка"
+
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела социальных иконок"
+
+msgid "Title"
+msgstr "заглавие"
+
+msgid "Facebook"
+msgstr "facebook"
+
+msgid "Twitter"
+msgstr "щебет"
+
+msgid "Google+"
+msgstr "Google+"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Youtube"
+msgstr "YouTube"
+
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+msgid "Font Weight"
+msgstr "Вес шрифта"
+
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+msgid "Line Height"
+msgstr "Высота линии"
+
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+msgid "No Fonts weight"
+msgstr "Вес шрифтов нет"
+
+msgid "Thin"
+msgstr "тонкий"
+
+msgid "Light"
+msgstr "Светлый"
+
+msgid "Normal"
+msgstr "Обычный"
+
+msgid "Medium"
+msgstr "средний"
+
+msgid "Bold"
+msgstr "Жирный"
+
+msgid "Ultra Bold"
+msgstr "Ультра жирный"
+
+msgid "No Fonts Style"
+msgstr "Стиль без шрифтов"
+
+msgid "Italic"
+msgstr "курсивный"
+
+msgid "Oblique"
+msgstr "косой"
+
+msgid "Theme Typography"
+msgstr "Тема типографии"
+
+msgid "Content Typography"
+msgstr "Типография контента"
+
+msgid "Headings Typography"
+msgstr "Заголовки Типография"
+
+msgid "Global Typography"
+msgstr "Глобальная типография"
+
+msgid "It will change the complete theme color in one click."
+msgstr "Это изменит полный цвет темы в один клик."
+
+msgid "Paragraph Color"
+msgstr "Цвет абзаца"
+
+msgid "Paragraph Typography"
+msgstr "Типография абзаца"
+
+msgid "Select how you want your paragraphs to appear"
+msgstr "Выберите способ отображения абзацев"
+
+msgid "Anchor Tag Color"
+msgstr "Цвет привязки"
+
+msgid "Anchor Tag Typography"
+msgstr "Якорь Тег Типография"
+
+msgid "Select how you want your a tag to appear"
+msgstr "Выберите способ отображения тега"
+
+msgid "Heading 1 Color"
+msgstr "Заголовок 1 Цвет"
+
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+msgid "Select how heading 1 should appear."
+msgstr "Выберите, как должен выглядеть заголовок 1."
+
+msgid "Heading 2 Color"
+msgstr "Заголовок 2 Цвет"
+
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+msgid "Select how heading 2 should appear."
+msgstr "Выберите, как должен выглядеть заголовок 2."
+
+msgid "Heading 3 Color"
+msgstr "Заголовок 3 Цвет"
+
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+msgid "Select how heading 3 should appear."
+msgstr "Выберите, как должен выглядеть заголовок 3."
+
+msgid "Heading 4 color"
+msgstr "Заголовок 4 цвет"
+
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+msgid "Select how heading 4 should appear."
+msgstr "Выберите, как должен выглядеть заголовок 4."
+
+msgid "Heading 5 Color"
+msgstr "Заголовок 5 Цвет"
+
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+msgid "Select how heading 5 should appear."
+msgstr "Выберите, как должен выглядеть заголовок 5."
+
+msgid "Heading 6 Color"
+msgstr "Заголовок 6 Цвет"
+
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+msgid "Select how heading 6 should appear."
+msgstr "Выберите, как должен выглядеть заголовок 6."
+
+#: inc/customizer.php:28
+msgid "VW Settings"
+msgstr "Настройки VW"
+
+#: inc/customizer.php:33
+msgid "General Settings"
+msgstr "общие настройки"
+
+#: inc/customizer.php:43
+msgid "Width Layouts"
+msgstr "Ширина макетов"
+
+#: inc/customizer.php:44
+msgid "Here you can change the width layout of Website."
+msgstr "Здесь вы можете изменить ширину макета сайта."
+
+#: inc/customizer.php:53 inc/customizer.php:63 inc/customizer.php:82
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "Пост боковой панели макета"
+
+#: inc/customizer.php:59
+msgid "Here you can change the sidebar layout for posts."
+msgstr "Здесь вы можете изменить расположение боковой панели для сообщений."
+
+#: inc/customizer.php:62 inc/customizer.php:81
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer.php:64 inc/customizer.php:72 inc/customizer.php:83
+msgid "One Column"
+msgstr "Одна колонна"
+
+#: inc/customizer.php:65
+msgid "Three Columns"
+msgstr "Три колонны"
+
+#: inc/customizer.php:66
+msgid "Four Columns"
+msgstr "Четыре колонны"
+
+#: inc/customizer.php:67
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "Макет боковой панели страницы"
+
+#: inc/customizer.php:78
+msgid "Here you can change the sidebar layout for pages."
+msgstr "Здесь вы можете изменить расположение боковой панели для страниц."
+
+#: inc/customizer.php:93
+msgid "Show / Hide Search"
+msgstr "Показать / Скрыть Поиск"
+
+#: inc/customizer.php:104
+msgid "Pre-Loader"
+msgstr "Pre-погрузчик"
+
+#: inc/customizer.php:114
+msgid "Pre-Loader Type"
+msgstr "Тип предзагрузчика"
+
+#: inc/customizer.php:117
+msgid "Two Way"
+msgstr "Двухсторонний"
+
+#: inc/customizer.php:118
+msgid "Dots"
+msgstr "точек"
+
+#: inc/customizer.php:119
+msgid "Rotate"
+msgstr "Поворот"
+
+#: inc/customizer.php:125
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:135
+msgid "Show / Hide Slider"
+msgstr "Показать / Скрыть слайдер"
+
+#: inc/customizer.php:146
+msgid "Select Slider Page"
+msgstr "Выберите страницу слайдера"
+
+#: inc/customizer.php:147
+msgid "Slider image size (435 x 435)"
+msgstr "Размер слайдера (435 x 435)"
+
+#: inc/customizer.php:155
+msgid "Services Section"
+msgstr "Секция услуг"
+
+#: inc/customizer.php:164
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/customizer.php:166
+msgid "OUR SERVICES"
+msgstr "НАШИ УСЛУГИ"
+
+#: inc/customizer.php:177
+msgid "Section Text"
+msgstr "Текст раздела"
+
+#: inc/customizer.php:179
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+msgstr "Lorem Ipsum - просто дурацкий текст в полиграфии и наборе текста"
+
+#: inc/customizer.php:204
+msgid "Select Category to display Latest Post"
+msgstr "Выберите категорию для отображения последнего сообщения"
+
+#: inc/customizer.php:210
+msgid "Blog Post Settings"
+msgstr "Настройки блога"
+
+#: inc/customizer.php:220
+msgid "Post Date"
+msgstr "Дата публикации"
+
+#: inc/customizer.php:230
+msgid "Author"
+msgstr "автор"
+
+#: inc/customizer.php:240
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/customizer.php:252
+msgid "Excerpt length"
+msgstr "Фиксированная длина"
+
+#: inc/customizer.php:265
+msgid "Customize Home Page Settings"
+msgstr "Настройте параметры домашней страницы"
+
+#: inc/customizer.php:278
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go."
+msgstr ""
+"Сначала выберите статическую страницу в настройках домашней страницы для "
+"главной страницы. Ниже приведена кнопка редактирования для настройки "
+"домашней страницы. Просто нажмите на опцию редактирования, добавьте все "
+"элементы, которые вы хотите включить в домашнюю страницу, сохраните "
+"изменения, и все готово."
+
+#: inc/customizer.php:282 template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "редактировать"
+
+#: inc/customizer.php:287
+msgid "Footer Settings"
+msgstr "Настройки нижнего колонтитула"
+
+#: inc/customizer.php:296
+msgid "Copyright Text"
+msgstr "Авторский текст"
+
+#: inc/customizer.php:298
+msgid "Copyright 2019, ....."
+msgstr "Авторское право 2019, ....."
+
+#: inc/customizer.php:310
+msgid "Show / Hide Scroll to Top"
+msgstr "Показать / Скрыть Прокрутить наверх"
+
+#: inc/customizer.php:320
+msgid "Scroll To Top"
+msgstr "Пролистать наверх"
+
+#: inc/customizer.php:405
+msgid "Digital Agency Pro"
+msgstr "Цифровое агентство Pro"
+
+#: inc/customizer.php:406
+msgid "UPGRADE PRO"
+msgstr "UPGRADE PRO"
+
+#: inc/customizer.php:413
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/customizer.php:414
+msgid "DOCS"
+msgstr "DOCS"
+
+#: page-template/custom-home-page.php:65 template-parts/content-audio.php:55
+#: template-parts/content-gallery.php:44 template-parts/content-image.php:44
+#: template-parts/content-video.php:55 template-parts/content.php:42
+#: template-parts/grid-layout.php:26
+msgid "READ MORE"
+msgstr "ПОДРОБНЕЕ"
+
+#: template-parts/header/navigation.php:13
+msgid "Open Button"
+msgstr "Кнопка открытия"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/single-post-layout.php:30
+msgid "0 Comment"
+msgstr "0 комментариев"
+
+#: template-parts/single-post-layout.php:30
+msgid "% Comment"
+msgstr "% Комментарий"
+
+#: template-parts/single-post-layout.php:53
+msgid "Parent post link"
+msgstr "Родительская ссылка"
+
+#: template-parts/single-post-layout.php:58
+msgid "Next"
+msgstr "следующий"
+
+#: template-parts/single-post-layout.php:59
+msgid "Next post"
+msgstr "Следующий пост"
+
+#: template-parts/single-post-layout.php:61
+msgid "Previous"
+msgstr "предыдущий"
+
+#: template-parts/single-post-layout.php:62
+msgid "Previous post"
+msgstr "Предыдущий пост"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему, чтобы оформить заказ."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Твоя очередь"
